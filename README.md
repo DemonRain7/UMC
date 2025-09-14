@@ -21,9 +21,5 @@
    - pip install positional_encodings
 
 ### Before Running ###
-1. Set the code environment:
-   export PYTHONPATH=/home/Rain/Rain_tmp/BodyTransformer/a1_walk/rsl_rl:$PYTHONPATH
-   export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH (If using Conda)
-
-2. If you are using numpy>=1.20, just replace np.float in the isaacgym/python/isaacgym/torch_utils.py into float.
+If you are using numpy>=1.20, just replace np.float in the isaacgym/python/isaacgym/torch_utils.py with float.
 
