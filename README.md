@@ -11,7 +11,7 @@
    - For troubleshooting check docs `isaacgym/docs/index.html`)
 4. Install rsl_rl (PPO implementation)
    -  `cd rsl_rl in this repo && pip install -e .`
-   -  * some problems exists, if this does not work, then download rsl_rl from github and git checkout v1.0.2
+   -  If this does not work, try git checkout v1.0.2
 5. Install legged_gym
    - `cd legged_gym in this repo && pip install -e .`
 6. Install Tensorboard
