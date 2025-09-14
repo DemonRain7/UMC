@@ -10,11 +10,10 @@
    - Try running an example `cd examples && python 1080_balls_of_solitude.py`
    - For troubleshooting check docs `isaacgym/docs/index.html`)
 4. Install rsl_rl (PPO implementation)
-   -  `cd rsl_rl && pip install -e .`
+   -  `cd rsl_rl in this repo && pip install -e .`
    -  * some problems exists, if this does not work, then download rsl_rl from github and git checkout v1.0.2
 5. Install legged_gym
-    - Clone this repository
-   - `cd legged_gym && pip install -e .`
+   - `cd legged_gym in this repo && pip install -e .`
 6. Install Tensorboard
    - pip install tensorboard
 7. Install Positional Encodings
