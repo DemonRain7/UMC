@@ -19,6 +19,6 @@
 7. Install Positional Encodings
    - pip install positional_encodings
 
-### Before Running ###
+### Problems you may met ###
 If you are using numpy>=1.20, just replace np.float in the isaacgym/python/isaacgym/torch_utils.py with float.
 
